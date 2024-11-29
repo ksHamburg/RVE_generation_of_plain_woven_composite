@@ -23,7 +23,7 @@ Since Abaqus 2024 the python interpreter of Abaqus is upgraded to version 3. The
 Therefore you can find the updated scripts in the folder ```Abaqus_2024```.
 You can run the "driver_script.py" via:
 
-```python3 driver_script.py```
+```python3 abaqus_2024/driver_script_ABQ2024.py```
 
 
 ## Requirements:
